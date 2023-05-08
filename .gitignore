@@ -1,0 +1,6 @@
+node_modules
+public/favicon.ico
+.eslintcache
+public/manifest.json
+public/logo192.png
+public/logo512.png
